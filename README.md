@@ -3,8 +3,8 @@
 
 ## ZWL
 
-|Number|    Title   |Solution|Score|Backup
-|---|-------------| ----- |----|---------|
+|Number|    Title   |Solution
+|---|-------------| ----- 
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](./ZWL/6%20-%20Z字形变换.md)
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./ZWL/9%20-%20回文数.md)
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](./ZWL/11%20-%20盛最多水的容器.md)
