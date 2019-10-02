@@ -1,5 +1,5 @@
 # LeetCode-daily
-> LeetCode刷题日记
+> LeetCode issues catalog
 
 ## ZWL
 
